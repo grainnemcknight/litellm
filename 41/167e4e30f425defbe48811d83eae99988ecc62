@@ -1,0 +1,29 @@
+litellm/responses/litellm_completion_transformation/transformation.py
+  s_7464a94f26bfd1::t_39e6a39f90d4e6 2431-2436
+tests/unit/responses/litellm_completion_transformation/test_function_call_output_normalization.py
+  s_b25a0cf3e4182b::t_624b628cf82196 10,12,17,21,177-227
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "41167e4e30f425defbe48811d83eae99988ecc62",
+  "prompts": {},
+  "sessions": {
+    "s_7464a94f26bfd1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "4d6abd4e-4b56-4e04-bad5-0f65219080fb",
+        "model": "unknown"
+      },
+      "human_author": "Grainne Ni She McKnight <grainne@interloom.com>"
+    },
+    "s_b25a0cf3e4182b": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a181f9-94cd-7e80-8ec2-12ca2a9c7083",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Grainne Ni She McKnight <grainne@interloom.com>"
+    }
+  }
+}
